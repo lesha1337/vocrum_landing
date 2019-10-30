@@ -1,0 +1,52 @@
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100vh;
+}
+
+.innerWrapper {
+  font-size: 1.2em;
+  max-width: 1000px;
+  width: calc(100% - 2em);
+  padding: 0 1em;
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 0.6rem;
+  }
+  h4 {
+    font-size: 1.4rem;
+    margin-bottom: 0.2rem;
+    font-weight: normal;
+  }
+}
+
+@media all and (max-width: 800px) {
+  .innerWrapper {
+    h1 {
+      font-size: 1.8em;
+    }
+  }
+}
+
+.withGradient {
+  &:after {
+    content: " ";
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(
+      to bottom,
+      rgba(41, 47, 65, 0.35),
+      rgba(48, 52, 64, 0.45) 43%,
+      rgba(64, 64, 64, 0.4)
+    );
+    top: 0;
+    left: 0;
+  }
+}
+
+.dark {
+  background: #131317;
+}

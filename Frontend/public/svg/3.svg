@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="314" height="239" viewBox="0 0 406.679 314">
+  <g id="Scene_Home" data-name="Scene/Home" transform="translate(-22.577 14.339)">
+    <g id="Background-Shape-2" transform="translate(22.577 129.873)">
+      <path id="Background-Shape" d="M.1,50.9c3.488,37.848,190.641,110.9,225.385,75.05S226.831,22.82,154.02,5.592-3.384,13.05.1,50.9Z" transform="translate(239.294 135.578) rotate(180)" fill="#333d40" fill-rule="evenodd"/>
+      <path id="Background-Shape-2-2" data-name="Background-Shape" d="M244.073,147.939c3.124-32.154,170.768-94.214,201.89-63.758s23.245,94.515-41.976,109.151S240.948,180.093,244.073,147.939Z" transform="translate(-84.557 -38.667)" fill="#333d40" fill-rule="evenodd"/>
+    </g>
+    <g id="Hanging-Lamp" transform="translate(27.553 -9.339)">
+      <g id="Light" transform="translate(0 74.349)" opacity="0.87">
+        <ellipse id="Hanging-Lamp-Light" cx="21.501" cy="11.053" rx="21.501" ry="11.053" transform="translate(3.541 5.895)" fill="#f2f2f2"/>
+        <path id="Hanging-Lamp-2" data-name="Hanging-Lamp" d="M50.085,24.561A24.805,24.805,0,0,0,25.042,0,24.805,24.805,0,0,0,0,24.561" transform="translate(0)" fill="#dde3e9" fill-rule="evenodd"/>
+      </g>
+      <rect id="Wire" width="3" height="78" transform="translate(23.703 0)" fill="#dde3e9" opacity="0.87"/>
+    </g>
+    <g id="Hanging-Lamp-3" data-name="Hanging-Lamp" transform="translate(73.085 -9.339)" opacity="0.7">
+      <g id="Light-2" data-name="Light" transform="translate(0 54.861)">
+        <ellipse id="Hanging-Lamp-Light-2" data-name="Hanging-Lamp-Light" cx="16.072" cy="8.92" rx="16.072" ry="8.92" transform="translate(2.647 4.757)" fill="#f2f2f2"/>
+        <path id="Hanging-Lamp-4" data-name="Hanging-Lamp" d="M37.437,19.821C37.437,8.874,29.057,0,18.719,0S0,8.874,0,19.821" transform="translate(0)" fill="#dde3e9" fill-rule="evenodd"/>
+      </g>
+      <rect id="Wire-2" data-name="Wire" width="3" height="66" transform="translate(17.171 0)" fill="#dde3e9"/>
+    </g>
+    <g id="Lamp" transform="translate(296.107 -13.849)" opacity="0.93">
+      <path id="Body" d="M60,31.043,74.377,17.074a6.326,6.326,0,0,1,8.76,0l0,0,38.276,37.184a11.856,11.856,0,0,1,3.627,8.5V309.044" transform="translate(-14.239 -5.044)" fill="none" stroke="#cbcbcb" stroke-width="8" fill-rule="evenodd"/>
+      <rect id="Lamp-Base" width="47" height="7" rx="3" transform="translate(86.149 301.511)" fill="#afb9c5"/>
+      <g id="Lamp-Top" transform="translate(36.12 -0.489) rotate(45)">
+        <path id="Lamp-2" data-name="Lamp" d="M25.867,0h0a24.3,24.3,0,0,1,24.81,24.81l-.315,21.366L0,46.921.315,25.555A26.1,26.1,0,0,1,25.867,0Z" transform="translate(0 0)" fill="#c5cfd6" fill-rule="evenodd"/>
+        <path id="Lamp-3" data-name="Lamp" d="M25.254.014C39.162-.191,50.4,1.864,50.363,4.6S39.015,9.729,25.108,9.934-.04,8.084,0,5.345,11.347.219,25.254.014Z" transform="translate(0.147 40.858)" fill="#f2f2f2"/>
+      </g>
+    </g>
+    <g id="Big-Leaf-Plant" transform="translate(39 171.75)" opacity="0.79">
+      <g id="Big-Ass-Leaf" transform="translate(11.636 0)">
+        <path id="leaf" d="M13.272,1.085a8.8,8.8,0,0,1,4.344.444C20.482,2.71,21.3,6,21.257,8.67c-.042,2.876-.671,6.017,1.581,8.334,1.035,1.065,2.323,1.881,3.339,2.965a13.972,13.972,0,0,1,2.569,3.91c1.159,2.616,1.727,5.693.668,8.438-.933,2.416-3.28,4.6-2.773,7.345.529,2.866,3.505,5.058,5.366,7.193,2.106,2.416,4.045,5.5,4.363,8.673a11.191,11.191,0,0,1-3.145,8.4c-4.174,4.587-10.449,6.835-16.775,6.822-2.686-.006-5.727-.124-8.045-1.525a4.358,4.358,0,0,1-1.52-1.6A5.279,5.279,0,0,0,5.414,66.2a8.5,8.5,0,0,1-2.8-3.631C.318,57.056,2.153,50.23,5.367,45.33c.761-1.161,1.385-2.278,1.015-3.662a13.99,13.99,0,0,0-2.174-3.989,31.968,31.968,0,0,1-2.424-3.724,8.235,8.235,0,0,1-.75-4.366A14.624,14.624,0,0,1,4.328,21.8C6.06,19.583,8.094,17.465,8.1,14.565c.005-3.074-2.111-5.808-1.21-8.933a5.948,5.948,0,0,1,2.332-3.4A9.715,9.715,0,0,1,13.272,1.085Z" transform="translate(-1 -1)" fill="#dde3e9" fill-rule="evenodd"/>
+        <path id="middle-thing" d="M22.7,10.578a.73.73,0,0,1,.928-.553c.523.142.513.616.5,1.038a13.571,13.571,0,0,0,.473,3.82,66.7,66.7,0,0,0,2.881,7.548,13.372,13.372,0,0,1,.863,7.769c-.541,2.508-1.39,4.951-1.943,7.462-.488,2.213-1.006,4.547-.264,6.755.714,2.125,2.294,3.856,3.431,5.776a26.623,26.623,0,0,1,3.539,12.924,23.485,23.485,0,0,1-.5,6.3c-.29,1.19-.679,2.8-1.73,3.62a1.225,1.225,0,0,1-1.72-.051c-.383-.526-.047-1.341.075-1.9a28.014,28.014,0,0,0,.506-7.376,25.929,25.929,0,0,0-1.187-7.054,23.625,23.625,0,0,0-3.095-5.87,18.558,18.558,0,0,1-3.211-6.014,13.764,13.764,0,0,1,.494-6.809c.631-2.356,1.458-4.645,2.313-6.937a11.843,11.843,0,0,0,.669-6.685C24.816,19.723,22.384,15.388,22.7,10.578Z" transform="translate(-11.376 -5.579)" fill="#c5cfd6" fill-rule="evenodd"/>
+      </g>
+      <g id="Big-Ass-Leaf-2" data-name="Big-Ass-Leaf" transform="translate(16.189 4.912)">
+        <path id="leaf-2" data-name="leaf" d="M45.983.777A10.954,10.954,0,0,1,50.836,3.5c2.718,2.845,1.884,7.144.383,10.284-1.615,3.38-4.063,6.777-2.683,10.655.634,1.783,1.7,3.4,2.3,5.194a17.618,17.618,0,0,1,.885,5.922c-.065,3.679-1.073,7.606-3.81,10.316-2.41,2.387-6.349,3.781-7.25,7.286-.94,3.657,1.358,7.753,2.378,11.217,1.155,3.921,1.748,8.553.4,12.461-1.295,3.746-4.563,6.69-8.263,8.349C27.782,88.5,19.2,87.987,11.786,84.775c-3.147-1.364-6.65-3.039-8.606-5.868a5.428,5.428,0,0,1-.915-2.654,6.56,6.56,0,0,0-.947-2.433A10.663,10.663,0,0,1,.01,68.111c.311-7.685,6.179-14.831,12.616-19,1.525-.988,2.864-1.994,3.184-3.818a17.774,17.774,0,0,0-.379-5.815,40.328,40.328,0,0,1-.816-5.629,10.778,10.778,0,0,1,1.5-5.543,19.731,19.731,0,0,1,8.105-7.551c3.237-1.743,6.775-3.22,8.359-6.647,1.679-3.633.685-7.935,3.444-11.176A8.008,8.008,0,0,1,40.6.09,12.471,12.471,0,0,1,45.983.777Z" transform="translate(0 0)" fill="#dde3e9" fill-rule="evenodd"/>
+        <path id="middle-thing-2" data-name="middle-thing" d="M58.131,13.4a.947.947,0,0,1,1.384-.182c.535.434.267.99.023,1.484a17.9,17.9,0,0,0-1.508,4.764c-.632,3.442-.49,6.928-.7,10.405a17.637,17.637,0,0,1-3.182,9.64c-1.985,2.7-4.3,5.156-6.3,7.848-1.764,2.373-3.629,4.873-3.952,7.865-.311,2.88.6,5.734.9,8.587A34.754,34.754,0,0,1,41.96,80.915a31.284,31.284,0,0,1-3.98,7.209c-.981,1.262-2.3,2.969-3.975,3.407a1.537,1.537,0,0,1-1.984-.936c-.164-.818.668-1.612,1.113-2.215A37.31,37.31,0,0,0,37.7,79.9a34.085,34.085,0,0,0,2.417-8.958,30.328,30.328,0,0,0-.453-8.526c-.513-2.9-1.084-5.833-.511-8.756.582-2.969,2.351-5.478,4.25-7.813,2.009-2.469,4.211-4.758,6.447-7.038a15.78,15.78,0,0,0,4.388-7.576C55.671,25.3,55.166,18.933,58.131,13.4Z" transform="translate(-15.811 -6.614)" fill="#c5cfd6" fill-rule="evenodd"/>
+      </g>
+      <g id="Big-Ass-Leaf-3" data-name="Big-Ass-Leaf" transform="translate(0 27.509)">
+        <path id="leaf-3" data-name="leaf" d="M6.732,0a9.72,9.72,0,0,1,7.41,3.713c2.115,2.55,2.542,5.663,3.4,8.7a7.725,7.725,0,0,0,2.45,4.041c1.171.934,2.658,1.121,4.06,1.578a9.342,9.342,0,0,1,5.958,5.791c1.09,3.271-.065,6.57.134,9.884.183,3.044,3.274,4.944,5.761,6.4,2.452,1.439,4.662,2.786,5.4,5.59a15.548,15.548,0,0,1-.039,9.229c-1.806,4.891-7.093,7.044-12.2,7.378-4.636.3-10.464-.172-13.946-3.44a9.454,9.454,0,0,1-2.744-7.41,21.958,21.958,0,0,1,.849-5,22.022,22.022,0,0,0,.865-3.51c.324-3.185-2.708-3.8-5.289-4.672a12.476,12.476,0,0,1-7.172-6.136A11.389,11.389,0,0,1,.412,23.36a10.177,10.177,0,0,1,2.4-4.1c.493-.52,1.188-.954,1.633-1.5a1.973,1.973,0,0,0,.182-1.769c-.662-2.76-2.723-5.046-3.461-7.8C.5,5.7.894,2.606,3.235,1A6.249,6.249,0,0,1,6.732,0Z" transform="translate(0 0)" fill="#c5cfd6" fill-rule="evenodd"/>
+        <path id="middle-thing-3" data-name="middle-thing" d="M19.689,14.315c3.161,3.269,4.02,7.7,4.272,12,.141,2.411-.006,4.953.724,7.291a12.254,12.254,0,0,0,3.6,4.977c3.036,2.91,6.421,5.869,7.309,10.081.521,2.472.169,5.025.889,7.47a20.314,20.314,0,0,0,3.209,6.282c1.129,1.512,2.6,2.668,3.833,4.077.376.43.916,1.063.76,1.67-.182.711-1.114.936-1.776.824-1.543-.26-2.841-1.691-3.85-2.731a23.551,23.551,0,0,1-3.747-4.99,20.591,20.591,0,0,1-2.431-6.485c-.4-2.371-.2-4.842-1.125-7.118-1.551-3.829-5.315-6.089-8.035-9.073-3.39-3.719-2.884-8.347-2.537-12.922.191-2.514.38-5.353-.928-7.648-.5-.876-1.613-1.693-1.828-2.689C17.827,14.421,18.9,13.5,19.689,14.315Z" transform="translate(-8.894 -7.123)" fill="#afb9c5" fill-rule="evenodd"/>
+      </g>
+      <path id="Base" d="M28,181c0,18.7,3.142,28.491,19.73,28.491s19.73-9.8,19.73-28.491Z" transform="translate(-13.835 -92.579)" fill="#89c5cc" fill-rule="evenodd"/>
+    </g>
+    <g id="Plant" transform="translate(314.931 161.136)" opacity="0.81">
+      <g id="Succulents" transform="translate(7.225 0)">
+        <path id="Thi-Succs_" data-name="Thi-Succs!" d="M3.193.1C7.661,10.413,15.258,17.576,19.281,28.3a59.279,59.279,0,0,1,3.441,20.35c.033,3.845-.036,7.694-.055,11.539-.018,3.75-.123,7.476-.451,11.2-.329,3.746-.7,7.447-.861,11.216-.127,2.937-.184,6.353-1.21,9.031-.815,2.13-2.887,2.442-3.437-.141a20.061,20.061,0,0,1-.233-4.516c.043-1.894.157-3.784.215-5.678.233-7.6-.069-15.2.089-22.8.154-7.427,1.137-14.845.049-22.222a50.828,50.828,0,0,0-5.8-16.338C8.5,15.115,5.755,10.408,4.05,4.919A25.781,25.781,0,0,1,3,.015Q3.119-.039,3.193.1Z" transform="translate(-1.482 0)" fill="#c1dee2" fill-rule="evenodd"/>
+        <path id="Thi-Succs_2" data-name="Thi-Succs!" d="M.493,41.3A8.307,8.307,0,0,1,2.47,43.727c.744,1.113,1.618,2.118,2.362,3.233,1.55,2.323,2.913,4.788,4.326,7.205a46.354,46.354,0,0,1,5.73,14.784,154.683,154.683,0,0,1,1.767,16.759c.465,5.916.934,11.876,1,17.815a61.8,61.8,0,0,1-.153,8.128c-.2,1.645-.969,3.047-2.693,3.033-3.661-.028-5.38-3.966-6.1-7.195a58.915,58.915,0,0,1-1.1-14.668c.2-5.863,1.25-11.638,1.7-17.479.48-6.183.209-12.257-1.98-18.079-1.106-2.942-2.39-5.813-3.542-8.736a27.783,27.783,0,0,0-1.556-3.681A35.062,35.062,0,0,1,0,41Z" transform="translate(0 -20.86)" fill="#89c5cc" fill-rule="evenodd"/>
+        <path id="Thi-Succs_3" data-name="Thi-Succs!" d="M75.769,16.254,76.106,16a31.9,31.9,0,0,1-1.354,3.606,28.717,28.717,0,0,0-.875,3.505c-.635,2.791-1.368,5.518-1.968,8.333-1.187,5.569-.962,11.569-.184,17.747.735,5.836,1.9,11.664,2.451,17.5A78.019,78.019,0,0,1,74.4,81.137c-.3,3.136-1.273,6.88-3.932,6.563-1.251-.149-1.9-1.612-2.167-3.263-.422-2.652-.511-5.44-.676-8.077-.367-5.886-.441-11.754-.513-17.579-.069-5.5-.258-11.1.12-16.458A49.194,49.194,0,0,1,70.366,28.2c.859-2.265,1.678-4.582,2.643-6.74.463-1.035,1.029-1.95,1.492-2.984A6.338,6.338,0,0,1,75.769,16.254Z" transform="translate(-33.104 -8.14)" fill="#c1dee2" fill-rule="evenodd"/>
+        <path id="Thi-Succs_4" data-name="Thi-Succs!" d="M3.106,76.148c.484-.789,1.55,1.813,1.712,2.141q-.1-.244-.207-.488A21.38,21.38,0,0,1,7,82.747C7.538,84.508,8,86.3,8.51,88.078c.952,3.328,2.181,6.561,3.043,9.918a31.368,31.368,0,0,1,.849,9.872,81.893,81.893,0,0,0-.094,10.6,30.1,30.1,0,0,0,1.065,4.859c.386,1.618.689,3.258,1.145,4.856.1-.208.118.488.118.54a3.268,3.268,0,0,1-.193,1.113,3.032,3.032,0,0,1-1.943,2.069c-1.749.485-3.372-1.06-3.936-2.69a43.517,43.517,0,0,1-1.64-7.386,33.82,33.82,0,0,1-.332-6.81c.207-4.509,1.047-8.959,1.275-13.466.247-4.907-.754-9.518-1.592-14.3A40.716,40.716,0,0,0,4.7,80.487,18.777,18.777,0,0,0,3.53,78C3.282,77.529,2.782,76.7,3.106,76.148Z" transform="translate(-1.482 -38.667)" fill="#c1dee2" fill-rule="evenodd"/>
+        <path id="Thi-Succs_5" data-name="Thi-Succs!" d="M26.187,42.535A164.258,164.258,0,0,1,24.868,59.3c-.788,5.677-1.693,11.334-2.451,17.016a111.821,111.821,0,0,0-1.408,16.762c.076,4.13-.63,11.118,4.1,13.157,4.785,2.065,5.812-6.752,6.126-9.662a105.836,105.836,0,0,0,.115-16.839c-.3-5.762-.8-11.494-1.422-17.235-.689-6.377-1.23-12.782-1.664-19.177-.215-3.163-.268-6.321-.208-9.484A23.055,23.055,0,0,0,26.9,25l-.171.121" transform="translate(-10.376 -12.719)" fill="#69a1ac" fill-rule="evenodd"/>
+        <path id="Thi-Succs_6" data-name="Thi-Succs!" d="M74.113,93.925c-.861,1.217-1.728,2.423-2.541,3.712a19.241,19.241,0,0,0-3.165,8.172c-.828,6.9-.164,14.36,0,21.474a10.927,10.927,0,0,0,.434,4.248c.535,1.255,1.536,2.211,2.489,2.206,2.041-.011,1.73-4.866,1.733-7,.006-3.745-.426-7.528-.389-11.269a76.008,76.008,0,0,1,.823-10.944,61.523,61.523,0,0,1,2.464-10.177c.15-.443,1.229-3.867.21-3.277" transform="translate(-33.598 -46.298)" fill="#89c5cc" fill-rule="evenodd"/>
+        <path id="Thi-Succs_7" data-name="Thi-Succs!" d="M55.215,22c-1.342,0-1.334,6.5-1.374,7.331-.146,3.012-.112,6.024-.2,9.036a159.132,159.132,0,0,1-1.467,19.7c-.547,3.5-1.182,6.98-1.865,10.451S48.7,75.478,48.251,79a71.281,71.281,0,0,0-.129,10.25,87.155,87.155,0,0,0,.628,10.256c.114.838.248,1.674.391,2.507a19.315,19.315,0,0,0,.251,2.215c.323,1.057,1.71,1.4,2.643,1.237,2.526-.448,4.139-3.527,5-5.777A52.8,52.8,0,0,0,59.3,90.675a76.62,76.62,0,0,0,1.216-10.4,170.018,170.018,0,0,0-.627-21.276c-.291-3.934-.628-7.852-1.142-11.762-.513-3.893-1.17-7.769-1.6-11.674-.311-2.838-.618-5.679-.819-8.528C56.282,26.352,56.242,22,55.215,22" transform="translate(-23.716 -11.193)" fill="#69a1ac" fill-rule="evenodd"/>
+        <path id="Thi-Succs_8" data-name="Thi-Succs!" d="M45.63,58.033C45.411,51.212,42.587,21.25,41.944,13c-.161-2.065-1.707-10.661-1.908-13-.544.662-.5,10.959-.492,13.325.006,2.34-.293,4.642-.446,6.97-.157,2.375-3.773,33.052-4.243,35.335-.934,4.541-1.559,9.2-2.041,13.843-.47,4.525-1.2,9.3-.571,13.848a13.566,13.566,0,0,0,.745,3.04c.4,1.039.678,2,1,3.088a6.292,6.292,0,0,0,2.9,4.013c2.959,1.483,4.548-1.874,5.354-4.8a76.148,76.148,0,0,0,2.5-14.313,147.359,147.359,0,0,0,.885-16.319" transform="translate(-15.811 0)" fill="#89c5cc" fill-rule="evenodd"/>
+      </g>
+      <g id="Planter" transform="translate(0 77.526)">
+        <rect id="Vase" width="46" height="45" rx="2" transform="translate(5.325)" fill="#fff"/>
+        <rect id="Leg" width="5" height="55" rx="2" transform="translate(0.325 6)" fill="#c5cfd6"/>
+        <rect id="Leg-2" data-name="Leg" width="6" height="55" rx="2" transform="translate(25.325 6)" fill="#c5cfd6"/>
+        <rect id="Leg-3" data-name="Leg" width="5" height="55" rx="2" transform="translate(51.325 6)" fill="#c5cfd6"/>
+      </g>
+    </g>
+    <g id="Web" transform="translate(137.255 83.139)" opacity="0.94">
+      <path id="Container" d="M8,0H147a8,8,0,0,1,8,8V152a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" transform="translate(0.001 -0.478)" fill="#4a6167"/>
+      <rect id="Background" width="32" height="37" rx="8" transform="translate(115.001 20.522)" fill="#fff"/>
+      <g id="Profile-Info" transform="translate(119.555 26.485)">
+        <circle id="Avatar" cx="7.5" cy="7.5" r="7.5" transform="translate(3.446 0.037)" fill="#dde3e9"/>
+        <rect id="Name" width="23" height="3" rx="1.5" transform="translate(0.446 17.037)" fill="#dde3e9"/>
+        <rect id="Name-2" data-name="Name" width="15" height="2" rx="1" transform="translate(3.446 22.037)" fill="#dde3e9"/>
+      </g>
+      <path id="Header" d="M3.69,0H150.808A3.69,3.69,0,0,1,154.5,3.69v8.763H0V3.69A3.69,3.69,0,0,1,3.69,0Z" transform="translate(0 -0.049)" fill="none" fill-rule="evenodd"/>
+      <g id="Buttons" transform="translate(4.495 4.911)">
+        <circle id="buttons-2" data-name="buttons" cx="2" cy="2" r="2" transform="translate(-0.494 -0.389)" fill="#f2f2f2"/>
+        <ellipse id="buttons-3" data-name="buttons" cx="1.5" cy="2" rx="1.5" ry="2" transform="translate(5.506 -0.389)" fill="#f2f2f2"/>
+        <circle id="buttons-4" data-name="buttons" cx="2" cy="2" r="2" transform="translate(10.506 -0.389)" fill="#f2f2f2"/>
+      </g>
+      <g id="Components" transform="translate(115.06 60.643)">
+        <rect id="Background-2" data-name="Background" width="32" height="90" rx="8" transform="translate(-0.059 -0.121)" fill="#fff"/>
+        <g id="Rows" transform="translate(8.09 8.09)">
+          <rect id="Data" width="15" height="13" rx="4" transform="translate(-0.149 -0.211)" fill="#dde3e9"/>
+          <rect id="Data-2" data-name="Data" width="15" height="12" rx="4" transform="translate(-0.149 15.789)" fill="#afb9c5"/>
+          <rect id="Data-3" data-name="Data" width="15" height="11" rx="4" transform="translate(-0.149 31.789)" fill="#dde3e9"/>
+          <rect id="Data-4" data-name="Data" width="15" height="12" rx="4" transform="translate(-0.149 61.789)" fill="#dde3e9"/>
+          <rect id="Data-5" data-name="Data" width="15" height="12" rx="4" transform="translate(-0.149 46.789)" fill="#c5cfd6"/>
+        </g>
+      </g>
+      <g id="Rows-2" data-name="Rows" transform="translate(7.192 20.193)">
+        <g id="Row" transform="translate(0)">
+          <rect id="Container-2" data-name="Container" width="104" height="21" rx="4" transform="translate(-0.191 0.33)" fill="#fff"/>
+          <g id="Text-Stuff" transform="translate(4.338 6.554)">
+            <rect id="Label" width="77.018" height="3.251" rx="1.626" fill="#dde3e9"/>
+            <rect id="Label-2" data-name="Label" width="51.697" height="3.251" rx="1.626" transform="translate(0 5.419)" fill="#dde3e9"/>
+          </g>
+          <g id="Check" transform="translate(89.636 7.661)">
+            <circle id="Background-3" data-name="Background" cx="3.228" cy="3.228" r="3.228" fill="#dde3e9"/>
+            <circle id="Indicator" cx="1.384" cy="1.384" r="1.384" transform="translate(1.845 1.845)" fill="#f2f2f2"/>
+          </g>
+        </g>
+        <g id="Row-2" data-name="Row" transform="translate(0 25.169)">
+          <rect id="Container-3" data-name="Container" width="104" height="18" rx="4" transform="translate(-0.191 0.16)" fill="#fff"/>
+          <g id="Text-Stuff-2" data-name="Text-Stuff" transform="translate(4.338 5.643)">
+            <rect id="Label-3" data-name="Label" width="77.018" height="2.698" rx="1.349" fill="#dde3e9"/>
+            <rect id="Label-4" data-name="Label" width="51.697" height="2.698" rx="1.349" transform="translate(0 4.497)" fill="#dde3e9"/>
+          </g>
+          <g id="Check-2" data-name="Check" transform="translate(89.636 6.012)">
+            <circle id="Background-4" data-name="Background" cx="3.228" cy="3.228" r="3.228" fill="#dde3e9"/>
+            <circle id="Indicator-2" data-name="Indicator" cx="1.384" cy="1.384" r="1.384" transform="translate(1.845 1.845)" fill="#f2f2f2"/>
+          </g>
+        </g>
+        <g id="Row-3" data-name="Row" transform="translate(0 46.743)">
+          <rect id="Container-4" data-name="Container" width="104" height="18" rx="4" transform="translate(-0.191 -0.413)" fill="#fff"/>
+          <g id="Text-Stuff-3" data-name="Text-Stuff" transform="translate(4.338 5.745)">
+            <rect id="Label-5" data-name="Label" width="77.018" height="2.698" rx="1.349" fill="#dde3e9"/>
+            <rect id="Label-6" data-name="Label" width="51.697" height="2.698" rx="1.349" transform="translate(0 4.497)" fill="#dde3e9"/>
+          </g>
+          <g id="Check-3" data-name="Check" transform="translate(89.636 6.114)">
+            <circle id="Background-5" data-name="Background" cx="3.228" cy="3.228" r="3.228" fill="#dde3e9"/>
+            <circle id="Indicator-3" data-name="Indicator" cx="1.384" cy="1.384" r="1.384" transform="translate(1.845 1.845)" fill="#afb9c5"/>
+          </g>
+        </g>
+        <g id="Row-4" data-name="Row" transform="translate(0 112.363)">
+          <rect id="Container-5" data-name="Container" width="104" height="18" rx="4" transform="translate(-0.191 -0.033)" fill="#fff"/>
+          <g id="Text-Stuff-4" data-name="Text-Stuff" transform="translate(4.338 5.153)">
+            <rect id="Label-7" data-name="Label" width="77.018" height="2.698" rx="1.349" fill="#dde3e9"/>
+            <rect id="Label-8" data-name="Label" width="51.697" height="2.698" rx="1.349" transform="translate(0 4.497)" fill="#dde3e9"/>
+          </g>
+          <g id="Check-4" data-name="Check" transform="translate(89.636 5.522)">
+            <circle id="Background-6" data-name="Background" cx="3.228" cy="3.228" r="3.228" fill="#dde3e9"/>
+            <circle id="Indicator-4" data-name="Indicator" cx="1.384" cy="1.384" r="1.384" transform="translate(1.845 1.845)" fill="#f2f2f2"/>
+          </g>
+        </g>
+        <g id="Row-5" data-name="Row" transform="translate(0 90.789)">
+          <rect id="Container-6" data-name="Container" width="104" height="18" rx="4" transform="translate(-0.191 -0.459)" fill="#fff"/>
+          <g id="Text-Stuff-5" data-name="Text-Stuff" transform="translate(4.338 5.051)">
+            <rect id="Label-9" data-name="Label" width="77.018" height="2.698" rx="1.349" fill="#dde3e9"/>
+            <rect id="Label-10" data-name="Label" width="51.697" height="2.698" rx="1.349" transform="translate(0 4.497)" fill="#dde3e9"/>
+          </g>
+          <g id="Check-5" data-name="Check" transform="translate(89.636 5.42)">
+            <circle id="Background-7" data-name="Background" cx="3.228" cy="3.228" r="3.228" fill="#dde3e9"/>
+            <circle id="Indicator-5" data-name="Indicator" cx="1.384" cy="1.384" r="1.384" transform="translate(1.845 1.845)" fill="#f2f2f2"/>
+          </g>
+        </g>
+        <g id="Row-6" data-name="Row" transform="translate(0 69.215)">
+          <rect id="Container-7" data-name="Container" width="104" height="18" rx="4" transform="translate(-0.191 0.114)" fill="#fff"/>
+          <g id="Text-Stuff-6" data-name="Text-Stuff" transform="translate(4.338 4.948)">
+            <rect id="Label-11" data-name="Label" width="77.018" height="2.698" rx="1.349" fill="#dde3e9"/>
+            <rect id="Label-12" data-name="Label" width="51.697" height="2.698" rx="1.349" transform="translate(0 4.497)" fill="#dde3e9"/>
+          </g>
+          <g id="Check-6" data-name="Check" transform="translate(89.636 5.317)">
+            <circle id="Background-8" data-name="Background" cx="3.228" cy="3.228" r="3.228" fill="#dde3e9"/>
+            <circle id="Indicator-6" data-name="Indicator" cx="1.384" cy="1.384" r="1.384" transform="translate(1.845 1.845)" fill="#f2f2f2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.982" height="56.701" viewBox="0 0 61.982 56.701">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2,.cls-3{stroke:none}.cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="triangles-couple-of-two-different-sizes-in-black-and-white" transform="translate(.518 2.08)">
+        <g id="Polygon_1" class="cls-1" data-name="Polygon 1">
+            <path d="M30.991 0l30.991 56.7H0z" class="cls-2" transform="translate(-.518 -2.08)"/>
+            <path d="M30.991 20.85l-14.13 25.851h28.26l-14.13-25.85m0-20.851l30.991 56.701H0L30.991 0z" class="cls-3" transform="translate(-.518 -2.08)"/>
+        </g>
+    </g>
+</svg>

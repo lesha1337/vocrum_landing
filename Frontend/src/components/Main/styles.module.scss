@@ -1,0 +1,64 @@
+.topText {
+  h3 {
+    font-size: 1.6em;
+    color: rgba(255, 255, 255, 0.75);
+    padding-bottom: 0.5em;
+    letter-spacing: 2.64px;
+    font-weight: bold;
+  }
+}
+
+.logo {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  svg {
+    padding: 2.28em 0.5em 0 0;
+    width: 5em;
+    height: 5.5em;
+  }
+  h1 {
+    line-height: 1.3;
+    font-size: 7em;
+    font-weight: 500;
+    letter-spacing: 8.7px;
+  }
+}
+
+.bottomText {
+  max-width: 620px;
+  padding: 0.5em 2em;
+  h2 {
+    font-size: 2em;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.32;
+    letter-spacing: 1.4px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.75);
+  }
+}
+
+@media all and (max-width: 800px) {
+  .topText {
+    h3 {
+      font-size: 1.4em;
+    }
+  }
+  .bottomText {
+    h2 {
+      font-size: 1.8em;
+    }
+  }
+  .logo {
+    svg {
+      padding: 1.9em 0.5em 0 0;
+      width: 4em;
+      height: 3.9em;
+    }
+    h1 {
+      font-size: 5.5em;
+    }
+  }
+}

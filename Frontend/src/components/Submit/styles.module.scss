@@ -1,0 +1,54 @@
+.submit {
+  display: flex;
+  max-width: 1000px;
+  width: calc(100% - 2em);
+  padding: 0 1em;
+  margin: 0 auto;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  &__text {
+    font-weight: 300;
+    font-size: 1.1em;
+    line-height: 1.95;
+  }
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+@media all and (min-width: 800px) {
+  .submit {
+    flex-direction: row;
+    min-height: 18em;
+  }
+  .left {
+    width: 45%;
+    margin-right: 0.5em;
+  }
+  .right {
+    width: calc(55% - 2em);
+    padding: 1em;
+    margin-left: 0.5em;
+  }
+}
+
+@media all and (max-width: 800px) {
+  .submit {
+    flex-direction: column;
+  }
+  .left {
+    min-height: 12em;
+    width: 100%;
+  }
+  .right {
+    min-height: 16em;
+    width: 100%;
+  }
+}
